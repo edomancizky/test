@@ -1,0 +1,20 @@
+SMAP
+formula_005fdetalles_005feditar_jsp.java
+JSP
+*S JSP
+*F
++ 0 formula_detalles_editar.jsp
+formula_detalles_editar.jsp
+*L
+5,30:45
+35,22:76
+56,6:98
+62:104,3
+63,30:107
+93:137,3
+94,4:140
+98:144,3
+99,4:147
+103:151,3
+104,30:154
+*E
